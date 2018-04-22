@@ -1,1 +1,1 @@
-# hello-world Nazywam sie Adrian Ksel
+# hello-world
